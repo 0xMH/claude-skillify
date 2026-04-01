@@ -1,0 +1,14 @@
+{
+  "name": "claude-skillify",
+  "owner": {
+    "name": "0xMH"
+  },
+  "plugins": [
+    {
+      "name": "skillify",
+      "description": "Capture repeatable session workflows into reusable SKILL.md files",
+      "source": "./",
+      "featured": true
+    }
+  ]
+}

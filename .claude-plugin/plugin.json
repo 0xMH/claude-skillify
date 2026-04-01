@@ -1,0 +1,8 @@
+{
+  "name": "skillify",
+  "description": "Capture repeatable session workflows into reusable SKILL.md files. An open-source reimplementation of the internal /skillify skill.",
+  "version": "1.0.0",
+  "author": {
+    "name": "claude-skillify contributors"
+  }
+}
